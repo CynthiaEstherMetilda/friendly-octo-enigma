@@ -1,2 +1,2 @@
-IIS Installations - From Cloud
+IIS Installations - From Remote repo
 ------------
